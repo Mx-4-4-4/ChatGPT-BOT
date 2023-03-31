@@ -1,5 +1,5 @@
 <h1 align="center">Chat GPT Discord Bot</h1>
-ChatGPT-BOT is the original Discord AI bot written in **[JavaScript](https://www.javascript.com/ )**, using the **[Discord.js V14](discord.js.org/ )** library powered by [OpenAI](https://openai.com/)'s models. It has different features such as answering to all of your questions or draw your imaginations and even translate your prompts from any language to any other language you want !
+ChatGPT-BOT is the original Discord AI bot written in **[JavaScript](https://www.javascript.com)**, using the **[Discord.js V14](discord.js.org)** library powered by [OpenAI](https://openai.com/)'s models. It has different features such as answering to all of your questions or draw your imaginations and even translate your prompts from any language to any other language you want !
 
 ## 🚧 Requirements
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**  
