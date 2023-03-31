@@ -1,0 +1,26 @@
+{
+  "name": "chatgpt-bot",
+  "version": "1.0.0",
+  "description": "ChatGPT-BOT is the original Discord AI bot written in JavaScript, using the Discord.js V14 library powered by OpenAI's models. It has different features such as answering to all of your questions or draw your imaginations and even translate your prompts from any language to any other language you want !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mx-4-4-4/ChatGPT-BOT.git"
+  },
+  "keywords": [
+    "OpenAI",
+    "Discord",
+    "Chat",
+    "BOT",
+    "GPT"
+  ],
+  "author": "! MX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mx-4-4-4/ChatGPT-BOT/issues"
+  },
+  "homepage": "https://github.com/Mx-4-4-4/ChatGPT-BOT#readme"
+}
