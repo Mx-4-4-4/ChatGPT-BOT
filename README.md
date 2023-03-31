@@ -40,5 +40,5 @@ After installation finishes run `node index.js` in terminal to start the bot.
 ## ❤️ Donations
 You can **[support](https://paypal.me/mxdonnez)** me by donating if you like the project!
 #
-Made with ❤️ and JavaScript, Don't Forget to ⭐
+Made JavaScript, Don't Forget to ⭐
 
